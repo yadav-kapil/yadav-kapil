@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hi 👋 I'm Kapil
 
-<!--
-**yadav-kapil/yadav-kapil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer | DevOps Learner
 
-Here are some ideas to get you started:
+I am a passionate developer currently learning:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌐 Full Stack Web Development
+* ⚙️ DevOps & Cloud Computing
+* 🤖 AI & Automation (future goal)
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Vite
+
+**Backend**
+
+* Node.js
+* Express.js
+* MongoDB
+
+**DevOps**
+
+* Linux
+* Docker
+* Git
+* GitHub
+* CI/CD (learning)
+
+---
+
+## 📂 Featured Projects
+
+### 🌐 Portfolio Website
+
+A modern portfolio built with React + Node.js.
+
+🔗 Live Demo: https://your-portfolio-link
+📦 Repo: https://github.com/yourusername/portfolio
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+* GitHub: https://github.com/yourusername
+* LinkedIn: https://linkedin.com/in/yourprofile
+* Portfolio: https://yourdomain.com
+
+---
+
+⭐ Always learning and building new things!
