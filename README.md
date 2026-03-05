@@ -1,38 +1,8 @@
 # Hi 👋 I'm Kapil
 
-🚀 Full Stack Developer | DevOps Learner
+🚀 Full Stack Developer 
 
-I am a passionate developer currently learning:
-
-* 🌐 Full Stack Web Development
-* ⚙️ DevOps & Cloud Computing
-* 🤖 AI & Automation (future goal)
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend**
-
-* HTML
-* CSS
-* JavaScript
-* React
-* Vite
-
-**Backend**
-
-* Node.js
-* Express.js
-* MongoDB
-
-**DevOps**
-
-* Linux
-* Docker
-* Git
-* GitHub
-* CI/CD (learning)
+I am a passionate developer currently enhancing my developent skills.
 
 ---
 
@@ -42,22 +12,17 @@ I am a passionate developer currently learning:
 
 A modern portfolio built with React + Node.js.
 
-🔗 Live Demo: https://your-portfolio-link
-📦 Repo: https://github.com/yourusername/portfolio
+🔗 Live Demo: https://portfolio-kapilyadav.vercel.app/ 
 
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true)
+📦 Repo: https://github.com/yadav-kapil/Portfolio
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/yourusername
-* LinkedIn: https://linkedin.com/in/yourprofile
-* Portfolio: https://yourdomain.com
+* GitHub: https://github.com/yadav-kapil
+* LinkedIn: https://www.linkedin.com/in/kapilyadav9560/
+* Portfolio: https://portfolio-kapilyadav.vercel.app/
 
 ---
 
