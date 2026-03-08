@@ -22,7 +22,7 @@ A modern portfolio built with MERN stack.
 
 * GitHub: https://github.com/yadav-kapil
 * LinkedIn: https://www.linkedin.com/in/kapilyadav9560/
-* Portfolio: https://portfolio-kapilyadav.vercel.app/
+* Portfolio: https://www.kapilyadav.cloud/
 
 ---
 
