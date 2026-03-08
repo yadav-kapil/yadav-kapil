@@ -1,8 +1,8 @@
-# Hi 👋 I'm Kapil
+# Hi 👋 I'm Kapil Yadav
 
 🚀 Full Stack Developer 
 
-I am a passionate developer currently enhancing my developent skills.
+I am a passionate developer currently enhancing my web developent skills.
 
 ---
 
@@ -12,7 +12,7 @@ I am a passionate developer currently enhancing my developent skills.
 
 A modern portfolio built with React + Node.js.
 
-🔗 Live Demo: https://portfolio-kapilyadav.vercel.app/ 
+🔗 Live Demo: https://www.kapilyadav.cloud/
 
 📦 Repo: https://github.com/yadav-kapil/Portfolio
 
