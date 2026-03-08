@@ -10,7 +10,7 @@ I am a passionate developer currently enhancing my web developent skills.
 
 ### 🌐 Portfolio Website
 
-A modern portfolio built with React + Node.js.
+A modern portfolio built with MERN stack.
 
 🔗 Live Demo: https://www.kapilyadav.cloud/
 
