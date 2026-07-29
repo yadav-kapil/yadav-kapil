@@ -141,16 +141,7 @@ class KapilYadav {
 
 ## 🌐 Personal Portfolio
 
-A premium full-stack portfolio showcasing projects, skills, achievements and interactive experiences.
-
-### ✨ Features
-
-- 🎨 Premium UI/UX
-- ⚡ Smooth Animations
-- 📱 Fully Responsive
-- 🤖 AI Portfolio Assistant
-- 🌙 Dark / Light Theme
-- 🚀 Optimized Performance
+A premium full-stack portfolio showcasing projects, skills, achievements and interactive experiences
 
 ### 🔗 Live Demo
 
