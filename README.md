@@ -5,12 +5,12 @@ Full Stack Developer • Backend Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-Building scalable web applications, clean APIs, and modern digital experiences.
+Building scalable web applications, secure backend systems, and premium digital experiences.
 </p>
 
 <p align="center">
 <a href="https://www.kapilyadav.cloud">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7C3AED?style=for-the-badge"/>
 </a>
 
 <a href="https://github.com/yadav-kapil">
@@ -18,7 +18,7 @@ Building scalable web applications, clean APIs, and modern digital experiences.
 </a>
 
 <a href="https://www.linkedin.com/in/kapilyadav9560/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
@@ -31,16 +31,18 @@ class KapilYadav {
 
     String role = "Full Stack Developer";
 
-    String[] interests = {
+    String[] expertise = {
         "Backend Development",
-        "System Design",
-        "Cloud",
+        "REST APIs",
+        "Cloud Deployment",
         "DevOps",
-        "AI"
+        "System Design"
     };
 
     String currentFocus =
-        "Building scalable applications and learning advanced backend architecture.";
+        "Building scalable production-ready applications with Spring Boot, MERN and Cloud.";
+
+    boolean openToCollaborate = true;
 }
 ```
 
@@ -48,89 +50,133 @@ class KapilYadav {
 
 # 💻 Tech Stack
 
-### Frontend
+## 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,js,ts,nextjs,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=python,java,js,c" />
 </p>
 
-### Backend
+---
+
+## 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+<img src="https://skillicons.dev/icons?i=html,css,react,vite,redux,bootstrap,tailwind" />
 </p>
 
-### Database
+<p>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/Responsive_Design-222222?style=for-the-badge"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+</p>
+
+---
+
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
-### DevOps & Cloud
+---
+
+## ☁️ DevOps & Cloud
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions" />
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,linux,nginx" />
 </p>
 
-### Tools
-
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma" />
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 </p>
 
 ---
+
+## 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,flask,pytorch" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Large_Language_Models-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prompt_Engineering-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+</p>
+
+---
+
+## 🛠️ Version Control
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github" />
+</p>
+
 
 # 🌟 Featured Project
 
 ## 🌐 Personal Portfolio
 
-A premium portfolio showcasing my projects, skills, experience and achievements with modern UI, smooth animations and responsive design.
+A premium full-stack portfolio showcasing projects, skills, achievements and interactive experiences.
 
-### Features
+### ✨ Features
 
-- ✨ Modern UI
+- 🎨 Premium UI/UX
 - ⚡ Smooth Animations
-- 📱 Responsive Design
-- 🤖 AI Assistant
+- 📱 Fully Responsive
+- 🤖 AI Portfolio Assistant
 - 🌙 Dark / Light Theme
+- 🚀 Optimized Performance
 
-### Links
-
-🌍 **Live**
+### 🔗 Live Demo
 
 https://www.kapilyadav.cloud/
 
-📦 **Repository**
+### 📦 Repository
 
 https://github.com/yadav-kapil/Portfolio
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yadav-kapil&show_icons=true&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yadav-kapil&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-kapil&layout=compact&theme=transparent"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-kapil&layout=compact&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-kapil&theme=transparent"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-kapil&theme=transparent&hide_border=true"/>
 
 </p>
-
----
-
-# 🎯 Currently Learning
-
-- Spring Boot
-- System Design
-- Docker & Kubernetes
-- AWS
-- Microservices
 
 ---
 
@@ -148,8 +194,8 @@ https://github.com/yadav-kapil/Portfolio
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+⭐ Thanks for visiting my profile.
 
-💜 Always learning. Always building.
+💜 Always Learning • Always Building • Always Improving
 
 </p>
