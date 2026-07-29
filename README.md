@@ -162,24 +162,6 @@ https://github.com/yadav-kapil/Portfolio
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yadav-kapil&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-kapil&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yadav-kapil&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
 # 🤝 Let's Connect
 
 <p align="center">
