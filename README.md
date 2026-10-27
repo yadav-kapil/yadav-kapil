@@ -43,9 +43,6 @@ class KapilYadav {
         "System Design"
     };
 
-    String currentFocus =
-        "Building scalable production-ready applications with Spring Boot, MERN and Cloud.";
-
     boolean openToCollaborate = true;
 }
 ```
